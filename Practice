@@ -1,0 +1,42 @@
+#1---What is the use of RDS?
+ Amazon Relational Database Service (Amazon RDS) makes it easy to set up, operate, and scale a relational database in the cloud. 
+ It provides cost-efficient and resizable capacity while automating time-consuming administration tasks 
+ such as hardware provisioning, database setup, patching and backups.
+ 
+ #2---What is S3 bucket used for?
+Amazon Simple Storage Service is storage for the Internet. It is designed to make web-scale computing easier for developers. 
+Amazon S3 has a simple web services interface that you can use to store and retrieve any amount of data, at any time, from anywhere on the web.
+
+#3--What is Auto-scaling?
+Auto-scaling is a way to automatically scale up or down the number of compute resources that are being allocated to your application based on its needs at any given time. 
+Before cloud computing, it was very difficult to scale a website, let alone figure out a way to automatically scale (autoscale) a server setup.
+
+#4-- What is EBS used for?
+Amazon Elastic Block Store (EBS) is an easy to use,
+high-performance, block-storage service designed for use with Amazon Elastic Compute Cloud (EC2) for both throughput and transaction intensive workloads at any scale.
+
+#5-What is EC2 in AWS?
+You can use Amazon EC2 to launch as many or as few virtual servers as you need, configure security and networking, and manage storage.
+
+#6--What is Jenkins and why we use it?
+Jenkins is an open-source automation tool written in Java with plugins built for Continuous Integration purposes.
+Jenkins is used to build and test your software projects continuously making it easier for developers to integrate changes to the project, 
+and making it easier for users to obtain a fresh build.
+
+#7-What is Git and why it is used?
+Git is a version control system for tracking changes in computer files and coordinating work on those files among multiple people. 
+It is primarily used for source code management in software development, but it can be used to keep track of changes in any set of files.
+
+#8--What is Docker exactly?
+Docker is an open platform for developing, shipping, and running applications. Docker enables you to separate your applications 
+from your infrastructure so you can deliver software quickly.
+With Docker, you can manage your infrastructure in the same ways you manage your applications.
+
+#9--What is meant by DevOps?
+DevOps (a portmanteau of “development” and “operations”) is the combination of practices and tools 
+designed to increase an organization's ability to deliver applications and services faster than traditional software development processes.
+
+#10-What is terraform used for?
+Terraform is a tool for building, changing, and versioning infrastructure safely and efficiently. 
+Terraform can manage existing and popular service providers as well as custom in-house solutions.
+Configuration files describe to Terraform the components needed to run a single application or your entire datacenter.
