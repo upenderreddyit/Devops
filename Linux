@@ -1,0 +1,60 @@
+1. How to check/add/delete permission for the user
+$ sudo adduser ubuntuserver
+$ sudo deluser ubuntuserver sudo-
+---------------------------------------
+
+2. How to change permission on file and directory
+chmod +rwx filename to add permissions.
+chmod -rwx directoryname to remove permissions.
+chmod +x filename to allow executable permissions.
+chmod -wx filename to take out write and executable permissions.-
+
+-----------------------------------------------------------
+
+3. How to change ownership on file and directory
+
+Chown Command in Linux (File Ownership)
+----------------------------------------------------
+
+1. How to check/add/delete permission for the user
+$ sudo adduser ubuntuserver
+$ sudo deluser ubuntuserver sudo
+
+2. How to change permission on file and directory
+chmod +rwx filename to add permissions.
+chmod -rwx directoryname to remove permissions.
+chmod +x filename to allow executable permissions.
+chmod -wx filename to take out write and executable permissions.
+
+3. How to change ownership on file and directory
+
+Chown Command in Linux (File Ownership)
+
+
+Commands: 
+grep -Grep will display every line where there is a match for the word
+
+(| pipe) --Pipes help you mash-up two or more commands at the same time and run them consecutively. 
+VI- Text Editor
+df - command stands for “disk filesystem“, it is used to get a full summary of available and used disk space usage of the file system on Linux system.
+DD - dd is a command-line utility for Unix and Unix-like operating systems whose primary purpose is to convert and copy files.
+tty that displays terminal related information
+wget --  The wget command is a command line utility for downloading files from the Internet.
+kill  --kill command in Linux (located in /bin/kill), is a built-in command which is used to terminate processes manually. kill command sends a signal to a process which terminates the process
+find-- It can be used to find files and directories and perform subsequent operations on them
+netstat --Netstat is a command line utility that can be used to list out all the network (socket) connections on a system. 
+mount--The mount command mounts a storage device or filesystem, making it accessible and attaching it to an existing directory structure.
+
+Fdisk , Tail-- ifconfig-- 
+
+
+rds
+s3
+Auto scaling
+ebs
+ec2
+jenins
+git
+docker
+devops
+terraform
